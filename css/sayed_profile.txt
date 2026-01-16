@@ -1,2 +1,0 @@
-<link rel="stylesheet" href="css/style.css" />
-<img class="avatar" src="images/avatar.png" alt="Sayed Avatar" />
